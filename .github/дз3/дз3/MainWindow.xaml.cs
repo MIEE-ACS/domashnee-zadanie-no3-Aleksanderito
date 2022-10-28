@@ -50,5 +50,14 @@ namespace дз3
             
         }
 
+        private void tb1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void tb2_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
